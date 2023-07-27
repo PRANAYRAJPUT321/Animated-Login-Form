@@ -21,7 +21,7 @@
    background: url(bg8.webp)no-repeat;
    background-size: cover;
    background-position: center;
-   animation: animateBg 5s linear infinite ;
+   animation: animateBg 6s linear infinite ;
 }
 @keyframes animateBg {
    100%{
